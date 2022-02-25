@@ -83,4 +83,4 @@ GROUP BY
     cte.duracao,
     cte.inicio,
     cte.termino,
-	mc.shortname
+    mc.shortname
